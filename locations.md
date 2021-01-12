@@ -1,3 +1,3 @@
 # Where are we all from? 🌏
-Union Territory of Chandigarh
+Union Territory of CHANDIGARH
 INDIA
