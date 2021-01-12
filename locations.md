@@ -1,2 +1,3 @@
 # Where are we all from? 🌏
-I am from Chandigarh, INDIA.
+I am from ...
+INDIA
